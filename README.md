@@ -1,5 +1,5 @@
 # The Fortnight Vault — Cloudflare Pages + KV
-<-- REDEPLOYMENT -->
+<- REDEPLOYMENT ->
 Your 14-day sprint tracker, hosted free on Cloudflare Pages, with a tiny sync
 endpoint so your morning brief can read your live progress.
 
